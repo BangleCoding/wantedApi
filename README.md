@@ -11,6 +11,8 @@
 
 ### api 명세서 
 
+
+```json
 info:
   version: 1.0.0
   title: wantedApi
@@ -19,6 +21,6 @@ info:
     name: YrLim
 servers:
   - url: http://localhost:3000/
-
+```
 
 
